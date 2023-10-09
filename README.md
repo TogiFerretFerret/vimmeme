@@ -1,2 +1,2 @@
 # vimmeme
-Vim Meme Python
+VimMeme is a python thing which should tell you vim jokes... supposedly.
